@@ -92,9 +92,3 @@ Make sure you click "Open Details" before screenshotting. Please make sure your 
 
 # Preview (Version 3.1)
 ![github-large](Images/Image3.png)
-
-# Preview (Version 2.6)
-![github-large](Images/image2.png)
-
-# Preview (Old)
-![github-large](Images/Image1.png)
